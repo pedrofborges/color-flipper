@@ -1,2 +1,2 @@
-# My-projects
-I created this repository to store my projects as a developer. They will be college projects and also personal ones. I hope to be able to improve them in a short time. I accept corrections and constructive criticism, you're welcome.
+# color-flipper
+This is a color flipper project using html, javascript and css. It's a beginner's project, all credits to john-smilga in the video below: https://www.youtube.com/watch?v=3PHXvlpOkf4
